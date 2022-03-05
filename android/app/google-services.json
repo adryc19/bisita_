@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082988487584",
+    "project_id": "bisita-64576",
+    "storage_bucket": "bisita-64576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082988487584:android:78e78c550c117ba684bac5",
+        "android_client_info": {
+          "package_name": "com.example.bisita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082988487584-80tp9v6630o3aqkos5d5isah0s3vm0t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bisita",
+            "certificate_hash": "105970194d358241b0ee6f3a44f081b738677961"
+          }
+        },
+        {
+          "client_id": "1082988487584-tavlj64kp653d5vfve3vlh297ujhp0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtOui9tUZNlFKRJIQi3pXWJH4Qzd9t-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082988487584-tavlj64kp653d5vfve3vlh297ujhp0fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
